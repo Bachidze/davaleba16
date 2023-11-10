@@ -72,6 +72,12 @@
         margin-left: -1px;
      }
 
+     .flex p{
+        width: 350px;
+     }
+     .flex h3{
+        margin-left: -1px;
+     }
      h2{
         font-size: 36px;
         font-weight: 600;
@@ -148,6 +154,8 @@
      h3{
         margin-left: 50px;
      }
+
+     
 
      button:hover{
         opacity: 0.5;
